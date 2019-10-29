@@ -7,7 +7,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 <img width="1639" alt="Readme md image" src="images/readme.png">
 
 ### Movie-This
-<img width="1639" alt="Readme md image" src="images/readme-movie">
+<img width="1639" alt="Readme md image" src="images/readme-movie.png">
 
 ### Concert-This
-<img width="1639" alt="Readme md image" src="images/readme-concert">
+<img width="1639" alt="Readme md image" src="images/readme-concert.png">
